@@ -12,5 +12,5 @@ A simple weather application built using HTML, CSS, and JavaScript to fetch and 
 
 
 <p align="center">
-  <img src="https://github.com/stha1122/weather-app/assets/122188963/7f020b1a-7ff0-4da7-9a45-f0ab1a86f71b">
+  <img src="https://github.com/stha1122/Weather_application/assets/122188963/cebb5b76-4d69-4f0e-a281-1096605460a7">
 </p>
